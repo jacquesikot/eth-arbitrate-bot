@@ -764,6 +764,11 @@ end-of-stream@^1.1.0:
   dependencies:
     once "^1.4.0"
 
+erc-20-abi@^1.0.0:
+  version "1.0.0"
+  resolved "https://registry.yarnpkg.com/erc-20-abi/-/erc-20-abi-1.0.0.tgz#3df0f24458f902cade72f615c532b3b50d18beaf"
+  integrity sha512-X+kdxwbfegJ5quNHVyJPf72Y8g+rpurR3vA+K2b4jVUuAl3qHMYxnR7ZOJRC/T7kQu3V8XU4/U4mIJ+w5wUaeQ==
+
 es-abstract@^1.18.0-next.1, es-abstract@^1.18.0-next.2:
   version "1.18.0"
   resolved "https://registry.yarnpkg.com/es-abstract/-/es-abstract-1.18.0.tgz#ab80b359eecb7ede4c298000390bc5ac3ec7b5a4"
